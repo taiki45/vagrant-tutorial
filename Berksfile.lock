@@ -1,0 +1,16 @@
+{
+  "sources": {
+    "mysql": {
+      "locked_version": "3.0.4"
+    },
+    "hello": {
+      "path": "./site-cookbooks/hello"
+    },
+    "openssl": {
+      "locked_version": "1.1.0"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    }
+  }
+}
